@@ -2,10 +2,10 @@
 
 def main():
     #Escribe tu código debajo de esta línea
+    num = int(input("Escribe un numero : "))
     a=1
-    n= int(input("Escribe un numero : "))
     c=0
-    while c<= n:
+    while c<=num:
         a=a+1
         c= a*a
     print (a)
