@@ -8,8 +8,7 @@ def main():
     if num==0:
         print (0)
     if num==1:
-        print (1)
-        
+        print (1)     
     while c<num:
         c=c+1 
         d=a+b
