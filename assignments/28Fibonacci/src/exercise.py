@@ -11,7 +11,7 @@ def main():
         print (1)
         
     while c<num:
-        c=c+1 #indice
+        c=c+1 
         d=a+b
         if num==c:
             print (d)
