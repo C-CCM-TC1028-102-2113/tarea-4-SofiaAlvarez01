@@ -4,7 +4,7 @@ def main():
     c=1
     a=0
     b=1
-    num= int(input("Enter a number: "))
+    num= int(input("Enter the index: "))
     if num==0:
         print (0)
     if num==1:
