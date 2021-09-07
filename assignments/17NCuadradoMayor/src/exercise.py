@@ -3,7 +3,7 @@
 def main():
     #Escribe tu código debajo de esta línea
     a=1
-    n= int(input())
+    n= int(input("Escribe un numero : "))
     c=0
     while c<= n:
         a=a+1
